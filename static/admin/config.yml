@@ -1,0 +1,112 @@
+locale: 'fr'
+media_folder: static/img
+public_folder: /img
+logo_url: data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTE1MiIgaGVpZ2h0PSIyNTUiIHZpZXdCb3g9IjAgMCAxMTUyIDI1NSIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjExNTIiIGhlaWdodD0iMjU1IiByeD0iMTUiIGZpbGw9IiNGRkUwNzMiLz4KPHBhdGggZD0iTTMwNS45IDE2MkMzMjIuNCAxNjIgMzM4LjUgMTUxLjQgMzM4LjUgMTI3QzMzOC41IDEwMi42IDMyMi40IDkyIDMwNS45IDkySDI4NFYxNjJIMzA1LjlaTTI5NyAxMDRIMzAxLjhDMzA3LjkgMTA0IDMxMi45IDEwNS4zIDMxNy42IDEwOC41QzMyMi40IDExMS43IDMyNS4zIDExOC4xIDMyNS4zIDEyN0MzMjUuMyAxMzUuOSAzMjIuNCAxNDIuMyAzMTcuNiAxNDUuNUMzMTIuOSAxNDguNyAzMDcuOSAxNTAgMzAxLjggMTUwSDI5N1YxMDRaTTM5NS44NDggMTM1LjdDMzk1Ljg0OCAxMzAgMzk0LjA0OCAxMjQuMSAzOTAuNDQ4IDExOS4yQzM4Ni44NDggMTE0LjEgMzgwLjM0OCAxMTAuOCAzNzIuMzQ4IDExMC44QzM1NS4wNDggMTEwLjggMzQ4LjE0OCAxMjQuOCAzNDguMTQ4IDEzNi44QzM0OC4xNDggMTQ4LjggMzU1LjA0OCAxNjIuOCAzNzIuMzQ4IDE2Mi44QzM4My4zNDggMTYyLjggMzkwLjk0OCAxNTcuOSAzOTUuMjQ4IDE0OC4xTDM4NS4yNDggMTQ0LjRDMzgyLjI0OCAxNDkuNiAzNzguMTQ4IDE1Mi4yIDM3My4wNDggMTUyLjJDMzY1Ljg0OCAxNTIuMiAzNjEuNDQ4IDE0Ni45IDM2MS4xNDggMTQwLjhIMzk1Ljg0OFYxMzUuN1pNMzcyLjM0OCAxMjEuNEMzNzguMTQ4IDEyMS40IDM4MS43NDggMTI0LjYgMzgzLjE0OCAxMzFIMzYxLjQ0OEMzNjIuMzQ4IDEyNS43IDM2Ni40NDggMTIxLjQgMzcyLjM0OCAxMjEuNFpNMzczLjE0OCAxMDZMMzg2Ljg0OCA5MS4ySDM3MC4wNDhMMzYzLjY0OCAxMDZIMzczLjE0OFpNNDE5LjQyMyAxNDQuMUM0MTkuNDIzIDEyOC44IDQyNS4wMjMgMTIxLjkgNDMyLjkyMyAxMjEuOUM0MzQuODIzIDEyMS45IDQzNi42MjMgMTIyLjQgNDM4LjEyMyAxMjMuM0w0NDAuNDIzIDExMS44QzQzOC4yMjMgMTExLjEgNDM2LjIyMyAxMTAuOCA0MzQuMzIzIDExMC44QzQyOC40MjMgMTEwLjggNDIzLjAyMyAxMTQuMSA0MTkuNDIzIDExOS44VjExMS42SDQwNy4wMjNWMTYySDQxOS40MjNWMTQ0LjFaTTQ1MC4xNzEgMTAyLjhDNDUzLjI3MSAxMDUuOSA0NTguNDcxIDEwNS45IDQ2MS41NzEgMTAyLjhDNDY0LjY3MSA5OS43IDQ2NC42NzEgOTQuNSA0NjEuNTcxIDkxLjRDNDU4LjQ3MSA4OC4zIDQ1My4yNzEgODguMyA0NTAuMTcxIDkxLjRDNDQ3LjA3MSA5NC41IDQ0Ny4wNzEgOTkuNyA0NTAuMTcxIDEwMi44Wk00NDkuNjcxIDE2Mkg0NjIuMDcxVjExMS42SDQ0OS42NzFWMTYyWk00ODYuNDQ4IDE2Mkg0OTcuNjQ4TDUxNC43NDggMTExLjZINTAyLjI0OEw0OTIuMDQ4IDE0Ni43TDQ4MS44NDggMTExLjZINDY5LjM0OEw0ODYuNDQ4IDE2MlpNNTY2LjM1NSAxMzUuN0M1NjYuMzU1IDEzMCA1NjQuNTU1IDEyNC4xIDU2MC45NTUgMTE5LjJDNTU3LjM1NSAxMTQuMSA1NTAuODU1IDExMC44IDU0Mi44NTUgMTEwLjhDNTI1LjU1NSAxMTAuOCA1MTguNjU1IDEyNC44IDUxOC42NTUgMTM2LjhDNTE4LjY1NSAxNDguOCA1MjUuNTU1IDE2Mi44IDU0Mi44NTUgMTYyLjhDNTUzLjg1NSAxNjIuOCA1NjEuNDU1IDE1Ny45IDU2NS43NTUgMTQ4LjFMNTU1Ljc1NSAxNDQuNEM1NTIuNzU1IDE0OS42IDU0OC42NTUgMTUyLjIgNTQzLjU1NSAxNTIuMkM1MzYuMzU1IDE1Mi4yIDUzMS45NTUgMTQ2LjkgNTMxLjY1NSAxNDAuOEg1NjYuMzU1VjEzNS43Wk01NDIuODU1IDEyMS40QzU0OC42NTUgMTIxLjQgNTUyLjI1NSAxMjQuNiA1NTMuNjU1IDEzMUg1MzEuOTU1QzUzMi44NTUgMTI1LjcgNTM2Ljk1NSAxMjEuNCA1NDIuODU1IDEyMS40Wk02MjEuMzA1IDExMS42SDYwOC45MDVWMTMxLjdDNjA4LjkwNSAxNDQuNCA2MDMuODA1IDE1Mi4yIDU5Ny40MDUgMTUyLjJDNTkyLjYwNSAxNTIuMiA1OTAuMjA1IDE0OS40IDU5MC4yMDUgMTQzLjlWMTExLjZINTc3LjgwNVYxNDcuNkM1NzcuODA1IDE1Ny41IDU4NC4wMDUgMTYyLjggNTkzLjMwNSAxNjIuOEM1OTkuNjA1IDE2Mi44IDYwNC44MDUgMTU5LjggNjA4LjkwNSAxNTMuOVYxNjJINjIxLjMwNVYxMTEuNlpNNjQ3LjA2IDE0NC4xQzY0Ny4wNiAxMjguOCA2NTIuNjYgMTIxLjkgNjYwLjU2IDEyMS45QzY2Mi40NiAxMjEuOSA2NjQuMjYgMTIyLjQgNjY1Ljc2IDEyMy4zTDY2OC4wNiAxMTEuOEM2NjUuODYgMTExLjEgNjYzLjg2IDExMC44IDY2MS45NiAxMTAuOEM2NTYuMDYgMTEwLjggNjUwLjY2IDExNC4xIDY0Ny4wNiAxMTkuOFYxMTEuNkg2MzQuNjZWMTYySDY0Ny4wNlYxNDQuMVpNNzQwLjY1MiAxMDMuOUM3MzYuNjUyIDk1LjQgNzI5Ljk1MiA5MS4yIDcyMC40NTIgOTEuMkM3MTQuOTUyIDkxLjIgNzEwLjQ1MiA5MyA3MDYuNzUyIDk2LjdDNzAzLjE1MiAxMDAuNCA3MDEuMzUyIDEwNC45IDcwMS4zNTIgMTEwLjJDNzAxLjE1MiAxMjMuMSA3MTEuOTUyIDEyOC40IDcyMC4yNTIgMTMxLjlDNzI2LjE1MiAxMzQuNCA3MzAuNjUyIDEzNy42IDczMC42NTIgMTQxLjdDNzMwLjY1MiAxNDcuOCA3MjcuNjUyIDE1MC44IDcyMS41NTIgMTUwLjhDNzE0Ljk1MiAxNTAuOCA3MTAuMzUyIDE0Ni4xIDcwNy42NTIgMTM2LjZMNjk3LjE1MiAxNDMuMkM2OTguMjUyIDE0OC43IDcwMS4wNTIgMTUzLjQgNzA1LjQ1MiAxNTcuMkM3MDkuODUyIDE2MC45IDcxNS4xNTIgMTYyLjggNzIxLjI1MiAxNjIuOEM3MzQuODUyIDE2Mi44IDc0My42NTIgMTU0LjYgNzQzLjY1MiAxNDFDNzQzLjc1MiAxMjguOSA3MzIuNjUyIDEyMy43IDcyNC4yNTIgMTIwQzcxOC41NTIgMTE3LjMgNzEzLjc1MiAxMTQgNzEzLjc1MiAxMDkuNkM3MTMuNzUyIDEwNS45IDcxNi41NTIgMTAzLjIgNzIwLjQ1MiAxMDMuMkM3MjQuMzUyIDEwMy4yIDcyNy42NTIgMTA1LjcgNzMwLjE1MiAxMTAuNkw3NDAuNjUyIDEwMy45Wk04MDAuNzMgMTM1LjdDODAwLjczIDEzMCA3OTguOTMgMTI0LjEgNzk1LjMzIDExOS4yQzc5MS43MyAxMTQuMSA3ODUuMjMgMTEwLjggNzc3LjIzIDExMC44Qzc1OS45MyAxMTAuOCA3NTMuMDMgMTI0LjggNzUzLjAzIDEzNi44Qzc1My4wMyAxNDguOCA3NTkuOTMgMTYyLjggNzc3LjIzIDE2Mi44Qzc4OC4yMyAxNjIuOCA3OTUuODMgMTU3LjkgODAwLjEzIDE0OC4xTDc5MC4xMyAxNDQuNEM3ODcuMTMgMTQ5LjYgNzgzLjAzIDE1Mi4yIDc3Ny45MyAxNTIuMkM3NzAuNzMgMTUyLjIgNzY2LjMzIDE0Ni45IDc2Ni4wMyAxNDAuOEg4MDAuNzNWMTM1LjdaTTc3Ny4yMyAxMjEuNEM3ODMuMDMgMTIxLjQgNzg2LjYzIDEyNC42IDc4OC4wMyAxMzFINzY2LjMzQzc2Ny4yMyAxMjUuNyA3NzEuMzMgMTIxLjQgNzc3LjIzIDEyMS40Wk04MjQuMzA2IDE0NC4xQzgyNC4zMDYgMTI4LjggODI5LjkwNiAxMjEuOSA4MzcuODA2IDEyMS45QzgzOS43MDYgMTIxLjkgODQxLjUwNiAxMjIuNCA4NDMuMDA2IDEyMy4zTDg0NS4zMDYgMTExLjhDODQzLjEwNiAxMTEuMSA4NDEuMTA2IDExMC44IDgzOS4yMDYgMTEwLjhDODMzLjMwNiAxMTAuOCA4MjcuOTA2IDExNC4xIDgyNC4zMDYgMTE5LjhWMTExLjZIODExLjkwNlYxNjJIODI0LjMwNlYxNDQuMVpNODY4LjU3NyAxNjJIODc5Ljc3N0w4OTYuODc3IDExMS42SDg4NC4zNzdMODc0LjE3NyAxNDYuN0w4NjMuOTc3IDExMS42SDg1MS40NzdMODY4LjU3NyAxNjJaTTkwNS4zNDcgMTAyLjhDOTA4LjQ0NyAxMDUuOSA5MTMuNjQ3IDEwNS45IDkxNi43NDcgMTAyLjhDOTE5Ljg0NyA5OS43IDkxOS44NDcgOTQuNSA5MTYuNzQ3IDkxLjRDOTEzLjY0NyA4OC4zIDkwOC40NDcgODguMyA5MDUuMzQ3IDkxLjRDOTAyLjI0NyA5NC41IDkwMi4yNDcgOTkuNyA5MDUuMzQ3IDEwMi44Wk05MDQuODQ3IDE2Mkg5MTcuMjQ3VjExMS42SDkwNC44NDdWMTYyWk05NjUuNjAyIDE0My45Qzk2Mi45MDIgMTQ5LjQgOTU4LjkwMiAxNTIuMiA5NTMuODAyIDE1Mi4yQzk0Ni4yMDIgMTUyLjIgOTQyLjIwMiAxNDYgOTQyLjIwMiAxMzYuOEM5NDIuMjAyIDEyNy42IDk0Ni4yMDIgMTIxLjQgOTUzLjgwMiAxMjEuNEM5NTguOTAyIDEyMS40IDk2Mi45MDIgMTI0LjIgOTY1LjYwMiAxMjkuN0w5NzYuNzAyIDEyNS4yQzk3Mi44MDIgMTE1LjYgOTY1LjIwMiAxMTAuOCA5NTMuODAyIDExMC44Qzk0NS45MDIgMTEwLjggOTM5LjkwMiAxMTMuMyA5MzUuNjAyIDExOC4yQzkzMS4zMDIgMTIzLjEgOTI5LjIwMiAxMjkuMyA5MjkuMjAyIDEzNi44QzkyOS4yMDIgMTQ0LjMgOTMxLjMwMiAxNTAuNSA5MzUuNjAyIDE1NS40QzkzOS45MDIgMTYwLjMgOTQ1LjkwMiAxNjIuOCA5NTMuODAyIDE2Mi44Qzk2NS4yMDIgMTYyLjggOTcyLjgwMiAxNTggOTc2LjcwMiAxNDguNEw5NjUuNjAyIDE0My45Wk0xMDMyLjc2IDEzNS43QzEwMzIuNzYgMTMwIDEwMzAuOTYgMTI0LjEgMTAyNy4zNiAxMTkuMkMxMDIzLjc2IDExNC4xIDEwMTcuMjYgMTEwLjggMTAwOS4yNiAxMTAuOEM5OTEuOTYyIDExMC44IDk4NS4wNjIgMTI0LjggOTg1LjA2MiAxMzYuOEM5ODUuMDYyIDE0OC44IDk5MS45NjIgMTYyLjggMTAwOS4yNiAxNjIuOEMxMDIwLjI2IDE2Mi44IDEwMjcuODYgMTU3LjkgMTAzMi4xNiAxNDguMUwxMDIyLjE2IDE0NC40QzEwMTkuMTYgMTQ5LjYgMTAxNS4wNiAxNTIuMiAxMDA5Ljk2IDE1Mi4yQzEwMDIuNzYgMTUyLjIgOTk4LjM2MiAxNDYuOSA5OTguMDYyIDE0MC44SDEwMzIuNzZWMTM1LjdaTTEwMDkuMjYgMTIxLjRDMTAxNS4wNiAxMjEuNCAxMDE4LjY2IDEyNC42IDEwMjAuMDYgMTMxSDk5OC4zNjJDOTk5LjI2MiAxMjUuNyAxMDAzLjM2IDEyMS40IDEwMDkuMjYgMTIxLjRaTTEwNTkuNDMgMTEwLjhDMTA1NC43MyAxMTAuOCAxMDUwLjgzIDExMi4yIDEwNDcuODMgMTE1LjFDMTA0NC44MyAxMTggMTA0My4zMyAxMjEuNCAxMDQzLjMzIDEyNS41QzEwNDMuMzMgMTMyLjcgMTA0Ny4xMyAxMzYuNCAxMDUzLjUzIDEzOS4xQzEwNTUuNDMgMTM5LjkgMTA1OC45MyAxNDEgMTA2MC42MyAxNDEuOEMxMDYxLjUzIDE0Mi4xIDEwNjIuNTMgMTQyLjUgMTA2My40MyAxNDNDMTA2NS4zMyAxNDMuOSAxMDY2LjEzIDE0NS4yIDEwNjYuMTMgMTQ2LjhDMTA2Ni4xMyAxNTAuNCAxMDY0LjAzIDE1Mi4yIDEwNTkuOTMgMTUyLjJDMTA1NS4yMyAxNTIuMiAxMDUxLjgzIDE0OS40IDEwNDkuODMgMTQzLjlMMTAzOS45MyAxNDkuMkMxMDQxLjQzIDE1Mi44IDEwNDMuOTMgMTU2IDEwNDcuNDMgMTU4LjdDMTA1MC45MyAxNjEuNCAxMDU1LjEzIDE2Mi44IDEwNTkuOTMgMTYyLjhDMTA2NS4yMyAxNjIuOCAxMDY5LjUzIDE2MS4yIDEwNzIuODMgMTU3LjlDMTA3Ni4xMyAxNTQuNiAxMDc3LjgzIDE1MC43IDEwNzcuODMgMTQ2QzEwNzcuODMgMTQyLjUgMTA3Ni4yMyAxMzkuNSAxMDc0LjczIDEzNy44QzEwNzQuMDMgMTM2LjkgMTA3Mi44MyAxMzYuMSAxMDcxLjEzIDEzNS4yQzEwNjkuNTMgMTM0LjMgMTA2OC4zMyAxMzMuNiAxMDY3LjUzIDEzMy4zTDEwNjMuMjMgMTMxLjhMMTA1OS42MyAxMzAuNUMxMDU2LjQzIDEyOS4zIDEwNTQuODMgMTI3LjcgMTA1NC44MyAxMjUuNkMxMDU0LjgzIDEyMi45IDEwNTYuOTMgMTIxLjQgMTA1OS40MyAxMjEuNEMxMDYyLjczIDEyMS40IDEwNjUuNTMgMTIyLjkgMTA2Ny44MyAxMjUuOEwxMDc1LjIzIDExOUMxMDcyLjAzIDExNC4xIDEwNjYuMTMgMTEwLjggMTA1OS40MyAxMTAuOFoiIGZpbGw9IiMyMDIwMjAiLz4KPHBhdGggZD0iTTE2NC4zMTcgMTc2LjY5M0w3Ni45MTY5IDE4NS4xOTNDNzMuOTE2OSAxODUuNDkzIDcyLjkxNjkgMTg3Ljc5MyA3NS40MTY5IDE4OS40OTNDODEuMzE2OSAxOTMuMzkzIDk0LjkxNjkgMTk4Ljc5MyAxMjQuOTE3IDE5Ny41OTNDMTYzLjExNyAxOTYuMDkzIDE3MC41MTcgMTg3LjI5MyAxNzEuMTE3IDE4MS4zOTNDMTcxLjMxNyAxNzguMzkzIDE2Ny4zMTcgMTc2LjM5MyAxNjQuMzE3IDE3Ni42OTNaIiBmaWxsPSIjMDEwMDAyIi8+CjxwYXRoIGQ9Ik0xMTAuNjE3IDE3OC42OTNDMTA4LjMxNyAxNzguNjkzIDEwNi41MTcgMTc2Ljg5MyAxMDYuNTE3IDE3NC41OTNDMTA1LjgxNyAxMjQuMDkzIDc1LjAxNjkgNjguMjkyOCA3NC43MTY5IDY3Ljc5MjhDNzMuNjE2OSA2NS43OTI4IDc0LjMxNjkgNjMuMjkyOCA3Ni4zMTY5IDYyLjE5MjhDNzguMzE2OSA2MS4wOTI4IDgwLjgxNjkgNjEuNzkyOCA4MS45MTY5IDYzLjc5MjhDODMuMjE2OSA2Ni4xOTI4IDExNC4xMTcgMTIxLjk5MyAxMTQuNzE3IDE3NC41OTNDMTE0LjgxNyAxNzYuNzkzIDExMi45MTcgMTc4LjY5MyAxMTAuNjE3IDE3OC42OTNaIiBmaWxsPSIjMDEwMDAyIi8+CjxwYXRoIGQ9Ik0xMTIuMzE3IDc1LjM5MjdDMTAwLjcxNyA2Ni44OTI3IDkwLjcxNjkgNjAuODkyNiA4NS4wMTY5IDU3Ljc5MjZDODIuMzE2OSA1Ni4yOTI2IDgxLjgxNjkgNTYuOTkyNiA4My44MTY5IDU5LjI5MjZDODkuMjE2OSA2NS43OTI2IDkzLjkxNjkgNzMuMzkyNyA5Ny45MTY5IDgxLjM5MjdDOTkuMzE2OSA4NC4wOTI3IDEwMi4yMTcgODQuNzkyNiAxMDQuOTE3IDgzLjI5MjZDMTA2LjcxNyA4Mi4yOTI2IDEwOC45MTcgODEuMTkyNiAxMTEuNTE3IDgwLjI5MjZDMTE0LjMxNyA3OS4yOTI2IDExNC43MTcgNzcuMjkyNyAxMTIuMzE3IDc1LjM5MjdaIiBmaWxsPSIjMDEwMDAyIi8+CjxwYXRoIGQ9Ik0xMDUuNjE3IDk5LjU5MjRDMTA4LjgxNyAxMDguMjkyIDExMS4zMTcgMTE3LjA5MiAxMTMuNDE3IDEyNS40OTJDMTE0LjExNyAxMjguNDkyIDExNi44MTcgMTI5LjY5MiAxMTkuNzE3IDEyOC40OTJDMTI2LjExNyAxMjUuNzkyIDEzNy4wMTcgMTIyLjU5MiAxNTMuODE3IDEyMS4xOTJDMTU2LjgxNyAxMjAuODkyIDE1Ny45MTcgMTE4Ljc5MiAxNTYuMDE3IDExNi4zOTJDMTQ3LjkxNyAxMDYuMTkyIDEzOC44MTcgOTcuMDkyNCAxMjkuNzE3IDg5LjE5MjRDMTI3LjQxNyA4Ny4xOTI0IDEyMy4wMTcgODUuODkyNCAxMjAuMDE3IDg2LjQ5MjRDMTE0LjYxNyA4Ny42OTI0IDExMC43MTcgODkuMzkyNCAxMDguMTE3IDkwLjk5MjRDMTA1LjMxNyA5Mi41OTI0IDEwNC41MTcgOTYuNjkyNCAxMDUuNjE3IDk5LjU5MjRaIiBmaWxsPSIjMDEwMDAyIi8+CjxwYXRoIGQ9Ik0xNjcuNjE3IDEzMy41OTNDMTY2LjExNyAxMzAuOTkzIDE2Mi4yMTcgMTI4Ljg5MyAxNTkuMjE3IDEyOS4wOTNDMTM5LjUxNyAxMzAuMjkzIDEyNy44MTcgMTMzLjk5MyAxMjEuOTE3IDEzNi40OTNDMTE5LjExNyAxMzcuNjkzIDExNy4zMTcgMTQxLjQ5MyAxMTcuNzE3IDE0NC41OTNDMTE4LjcxNyAxNTEuOTkzIDEyMC4zMTcgMTY0LjU5MyAxMjAuNzE3IDE2OS4wOTNDMTIxLjAxNyAxNzIuMDkzIDEyMy4yMTcgMTczLjA5MyAxMjYuMDE3IDE3MS44OTNDMTQwLjIxNyAxNjUuNTkzIDE2NC4zMTcgMTY2LjM5MyAxNzUuMTE3IDE2Ny4xOTNDMTc4LjExNyAxNjcuMzkzIDE4MC4yMTcgMTY1LjE5MyAxNzkuNDE3IDE2Mi4yOTNDMTc2LjkxNyAxNTIuMDkzIDE3Mi44MTcgMTQyLjQ5MyAxNjcuNjE3IDEzMy41OTNaIiBmaWxsPSIjMDEwMDAyIi8+Cjwvc3ZnPgo=
+
+backend:
+  name: github
+  repo: Wanaboat/wanaboat-pro-sites
+  branch: master
+  commit_messages:
+  create: 'Create {{collection}} “{{slug}}”'
+  update: 'Update {{collection}} “{{slug}}”'
+  delete: 'Delete {{collection}} “{{slug}}”'
+  uploadMedia: '[skip ci] Upload “{{path}}”'
+  deleteMedia: '[skip ci] Delete “{{path}}”'
+
+collections:
+  - name: "actu"
+    label: "Actu"
+    folder: "src/markdown/actualites/"
+    create: true
+    slug: "actualites/{{slug}}-{{year}}.{{month}}.{{day}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Featured Image", name: "featuredImage", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+
+  - name: "boats"
+    label: "Bateaux"
+    folder: "src/markdown/bateaux/"
+    create: true
+    slug: "bateaux/{{path}}"
+    editor:
+      preview: false
+    fields:
+      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "boat-spec"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Path", name: "path", widget: "string"}
+      - {label: "Wanaboat ID", name: "modelID", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Featured Image", name: "featuredImage", widget: image}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "src/markdown/index.md"
+        label: "Homepage"
+        name: "index"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "index-page"}
+          - {label: "Bannière", name: "alertBanner", widget: "string"}
+          - {label: "Heading", name: "heading", widget: "string"}
+          - {label: "Subheading", name: "subheading", widget: "string"}
+          - {label: "Chapo", name: "chapo", widget: "markdown"}
+          - {label: "address", name: "address", widget: "string"}
+          - {label: "openingHours", name: "openingHours", widget: "string"}
+          - {label: "phoneNumber", name: "phoneNumber", widget: "string"}
+          - {label: "phoneNumberRaw", name: "phoneNumberRaw", widget: "string"}
+          - label: "Offres"
+            name: "offers"
+            widget: "list"
+            fields:
+              - {label: Titre, name: title, widget: string, default: "Titre"}
+              - {label: Text, name: text, widget: markdown, default: "Intro"}
+              - {label: Image, name: image, widget: file}
+              - {label: Bouton text, name: buttonLabel, widget: string}
+              - {label: Bouton cible, name: buttonTarget, widget: string}
+
+      - file: "src/markdown/nous-trouver.md"
+        label: "Nous trouver"
+        name: "nous-trouver"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "URL", name: "path", widget: "string"}
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+
+      - file: "src/markdown/services.md"
+        label: "Services"
+        name: "services"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "URL", name: "path", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+
+      - file: "src/markdown/materiel-neuf.md"
+        label: "Matériel neuf"
+        name: "materiel-neuf"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "URL", name: "path", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+          
+      - file: "src/markdown/bateaux.md"
+        label: "Bateaux"
+        name: "bateaux"
+        fields:
+          - {label: "Template Key", name: "templateKey", widget: "hidden", default: "page"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "URL", name: "path", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
+

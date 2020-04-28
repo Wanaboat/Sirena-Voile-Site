@@ -1,0 +1,14 @@
+.headerIllu{
+    img{
+        object-fit: cover;
+        position:relative;
+        z-index:10;
+        width:100%;
+        height:100%;
+        @media screen and (min-width : "768px") {
+            clip-path: url(#headerIlluMask);
+            border-color:green;
+  
+        }
+    }
+}
