@@ -21,13 +21,13 @@ offers:
       Vous naviguez et on s'occupe du reste. Sirena, c'est toutes une gamme d'offre pour que naviguez ne soit que plaisir. Notre atelier prend en charge la rénovation, l'entretien ou les révisions de vos bateaux de voile légère. 
     title: Gammes Topaz, SL, Loday/White
   - buttonLabel: Nos occasions
-    buttonTarget: /services/
+    buttonTarget: /occasions/
     image: /img/occasions.jpg
     text: >-
       Nous proposons aussi du matériel neuf pour mettre au point ou améliorer votre bateau. Remorque, taud, accastillage, gréement, voiles : tout pour aller sur l'eau en sécurité avec du matériel de qualité et de grand marque.
     title: Occasions catamarans et dériveurs
   - buttonLabel: Services en détails
-    buttonTarget: /occasions/
+    buttonTarget: /services/
     image: /img/voilerie.jpg
     text: >-
       Vos envies de navigations évoluent, votre bateau doit évoluer avec. Alors nous proposons une large sélection de bateau d'occasion. Pour la balade, l'initiation, ou la performance et la régate.
