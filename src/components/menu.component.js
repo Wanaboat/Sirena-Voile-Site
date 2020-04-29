@@ -96,6 +96,7 @@ class Menu extends Component {
           <Link 
             display="block"
             href="https://www.sirena-voile-shop.com/"
+            rel="noopener"
             target="_blank"
             color={{ xs:"brand.dark", lg:"white"}}
             fontSize={{ xs:22, lg:12}}

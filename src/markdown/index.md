@@ -11,7 +11,7 @@ chapo: >-
   jusqu’à l’hivernage et la revente.
 address: D45 Route de Saillé 44 510 Le Pouliguen
 openingHours: Mardi au Samedi 9h à 18h
-phoneNumber: +33(0)
+phoneNumber: +33(0)2 40 42 89 89
 phoneNumberRaw: 33240428989
 offers:
   - buttonLabel: Voir la gamme

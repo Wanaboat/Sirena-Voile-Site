@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 import React from "react"
 import { Flex, Box } from "@chakra-ui/core"
 import Menu from './menu.component.js'
-import logo from '../images/logo-sirena.png'
+import logo from '../images/logo-sirena.svg'
 
 export const Header = ({ siteTitle }) => (
   <Flex
@@ -19,9 +19,15 @@ export const Header = ({ siteTitle }) => (
     zIndex="modal"
   >
     <Box w={"160px"} color="brand.light1" fontWeight="bold" pl={2} display={{ xs:"initial", lg:"none"}}>
-        <Link to="/">
-            <img src={logo} alt={siteTitle} />
-        </Link>
+      <Link to="/">
+          <img
+            style={{
+              height: "32px"
+            }}
+            src={logo}
+            alt={siteTitle}
+          />
+      </Link>
     </Box>
     <Menu />
   </Flex>

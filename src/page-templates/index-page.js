@@ -34,7 +34,6 @@ const Hero = ({ heading, subheading, chapo, phoneNumber, address, phoneNumberRaw
     <Box
       id="home-hero"
       bg="brand.dark1"
-
       p={{ xs: 30, lg: 70 }}
     >
       <Stack spacing={{ xs: 6, lg: 10 }} maxW={{lg:"450px", xl:"650px", xxl:"700px"}}>
@@ -75,6 +74,7 @@ const Hero = ({ heading, subheading, chapo, phoneNumber, address, phoneNumberRaw
               <Text mb={4}>Tél : <Link href={`tel:+${phoneNumberRaw}`}>{phoneNumber}</Link></Text>
               <PseudoBox
                 mt={2}
+                mb={2}
                 as={GatsbyLink}
                 to="/a-propos/"
                 backgroundColor="brand.light1"
