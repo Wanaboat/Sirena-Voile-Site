@@ -76,8 +76,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Dériveur Service`,
-        short_name: `DS`,
+        name: `Sirena`,
+        short_name: `Sirena`,
         start_url: `/`,
         background_color: `hsl(0, 0%, 21%)`,
         theme_color: `hsl(0, 0%, 21%)`,
