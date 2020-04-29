@@ -1,7 +1,8 @@
 // import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
-import { Box, Flex, Text } from "@chakra-ui/core";
+import { Link as GatsbyLink } from "gatsby"
+import { Box, Flex, Text, Link } from "@chakra-ui/core"
 
 export const Footer = ({ title, subTitle }) => (
   <Flex
@@ -25,6 +26,9 @@ export const Footer = ({ title, subTitle }) => (
           letterSpacing="0.25rem"
           color="white"
         >{subTitle}</Text>
+        <Text textAlign="center">
+          <Link color="gray.100" fontSize="12px" to="/a-propos/mentions-legales" as={GatsbyLink}>Mentions légales</Link>
+        </Text>
       </Box>
     
   </Flex>

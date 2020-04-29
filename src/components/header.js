@@ -3,7 +3,7 @@ import PropTypes from "prop-types"
 import React from "react"
 import { Flex, Box } from "@chakra-ui/core"
 import Menu from './menu.component.js'
-import logo from '../images/logo.svg'
+import logo from '../images/logo-sirena.png'
 
 export const Header = ({ siteTitle }) => (
   <Flex

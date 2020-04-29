@@ -31,7 +31,7 @@ const colors = {
   },
   brand: {
     dark1:"#212D35",
-    light1:"#68E7DF",
+    light1:"#9FE6F0",
     light2:"#FFE587",
 
   },
