@@ -73,9 +73,9 @@ collections:
               - {label: Bouton text, name: buttonLabel, widget: string}
               - {label: Bouton cible, name: buttonTarget, widget: string}
 
-      - file: "src/markdown/nous-trouver.md"
-        label: "Nous trouver"
-        name: "nous-trouver"
+      - file: "src/markdown/a-propos.md"
+        label: "À propos"
+        name: "a-propos"
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}

@@ -42,10 +42,6 @@ class Menu extends Component {
       {
         label:"Actu",
         to:"/actualites/"
-      },
-      {
-        label:"Vente en ligne",
-        to:"https://www.sirena-voile-shop.com/"
       }
     ]
     return (
@@ -96,6 +92,29 @@ class Menu extends Component {
             </Link>
           )
         )}
+
+          <Link 
+            display="block"
+            href="https://www.sirena-voile-shop.com/"
+            target="_blank"
+            color={{ xs:"brand.dark", lg:"white"}}
+            fontSize={{ xs:22, lg:12}}
+            letterSpacing=".20rem"
+            fontWeight="bold"
+            w={{ xs:"100%", lg:"inherit"}}
+            _hover={
+              { color:"brand.light1", borderBottomColor:"brand.light1"}
+            }
+            mx={6}
+            p={{ xs:4, lg:0}}
+            variantColor="blue"
+            borderBottom={{ xs:"solid 3px ", lg:"none"}}
+            borderColor="brand.light1"
+            textTransform={{ xs:"none", lg:"uppercase"}}
+          >
+            Vente en ligne
+          </Link>
+
         </Flex>
         <Flex
           display={{ xs:"flex", lg:"none"}}

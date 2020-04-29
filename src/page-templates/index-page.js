@@ -76,7 +76,7 @@ const Hero = ({ heading, subheading, chapo, phoneNumber, address, phoneNumberRaw
               <PseudoBox
                 mt={2}
                 as={GatsbyLink}
-                to="/nous-trouver/"
+                to="/a-propos/"
                 backgroundColor="brand.light1"
                 color="gray.700"
                 letterSpacing="0.035rem"
