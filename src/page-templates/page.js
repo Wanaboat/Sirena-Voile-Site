@@ -21,7 +21,7 @@ export const PageTemplate = ({ title, content, description, contentComponent }) 
       py={{ xs: "2rem", lg: "5rem" }}
     >
       <Heading mb={4} as="h1">{title}</Heading>
-      { (description) ? <Heading as="h2" fontSize="14px">{description}</Heading> : null }
+      { (description) ? <Heading as="h2" mb="2rem" textTransform="uppercase" fontWeight="light" fontSize="16px">{description}</Heading> : null }
       <PageContent content={content} />
     </Box>
   )
@@ -38,7 +38,7 @@ const Page = ({ data }) => {
 
   return (
     <Layout>
-      <Helmet titleTemplate="%s | Dériveur Services">
+      <Helmet titleTemplate="%s | Sirena Voile">
         <title>{`${post.frontmatter.title}`}</title>
         <meta
           name="description"
@@ -48,6 +48,7 @@ const Page = ({ data }) => {
       <PageTemplate
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
+        description={post.frontmatter.description}
         content={post.html}
       />
     </Layout>

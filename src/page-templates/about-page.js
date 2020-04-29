@@ -4,6 +4,7 @@ import { graphql } from "gatsby"
 import Layout from "../components/Layout"
 import Content, { HTMLContent } from "../components/Content"
 import { GoogleMap, LoadScript, Marker } from "@react-google-maps/api"
+import { useSiteMetadata } from "../hooks/use-site-metadata"
 
 import Seo from "../components/Head.js"
 
@@ -27,6 +28,7 @@ export const AboutPageTemplate = ({
     draggableCursor: "default",
     draggingCursor: "move",
   }
+  const { locationCoordinate } = useSiteMetadata()
   return (
     <Box>
         <Stack
@@ -61,15 +63,15 @@ export const AboutPageTemplate = ({
               }}
               zoom={8}
               center={{
-                lat: 48.621368,
-                lng: -2.07034,
+                lat: locationCoordinate.lat,
+                lng: locationCoordinate.lon,
               }}
               defaultOptions={defaultOptions}
             >
               <Marker
                 position={{
-                  lat: 48.621368,
-                  lng: -2.07034,
+                  lat: locationCoordinate.lat,
+                  lng: locationCoordinate.lon,
                 }}
                 id={1}
                 label="Dériveur Service"

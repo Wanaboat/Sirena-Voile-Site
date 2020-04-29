@@ -15,8 +15,8 @@ import css from "./hero.module.scss";
 // import HeroMobileWebp from "../images/hero-mobile.webp"
 // import HeroMobileJpg from "../images/hero-mobile.jpg"
 
-import HeroDesktopWebp from "../images/hero-desktop.webp"
-import HeroDesktopJpg from "../images/hero-desktop.jpg"
+import HeroDesktopWebp from "../images/sl-5.2-hp.jpg"
+import HeroDesktopJpg from "../images/sl-5.2-hp.jpg"
 
 import {
   Box,
@@ -136,7 +136,7 @@ const Hero = ({ heading, subheading, chapo, phoneNumber, address, phoneNumberRaw
           zIndex={'base'}
         >
           <svg width="321" height="321" viewBox="0 0 321 321" fill="none" xmlns="http://www.w3.org/2000/svg">
-          <path fillRule="evenodd" clipRule="evenodd" d="M132.979 0.0783409L38.9487 94.1088C-12.9829 146.04 -12.9829 230.238 38.9487 282.17C63.4829 306.704 95.2188 319.647 127.352 321H138.607C170.74 319.647 202.475 306.704 227.01 282.17L320.488 188.691V187.587L320.288 187.387H320.488V0H133.083V0.182537L132.979 0.0783409Z" fill="#99FBF5"/>
+          <path fillRule="evenodd" clipRule="evenodd" d="M132.979 0.0783409L38.9487 94.1088C-12.9829 146.04 -12.9829 230.238 38.9487 282.17C63.4829 306.704 95.2188 319.647 127.352 321H138.607C170.74 319.647 202.475 306.704 227.01 282.17L320.488 188.691V187.587L320.288 187.387H320.488V0H133.083V0.182537L132.979 0.0783409Z" fill="#FFE587"/>
           </svg>
         </Box>
       </Box>

@@ -1,8 +1,8 @@
 ---
 templateKey: boats-summary
-title: Les bateaux de voile légère
-description: Initiation, balade, performance, un bateau pour chaque goût
+title: Notre Gamme de Catamarans & Dériveurs
+description: Inititation, Raid ou Régate, nous avons le bateaux qu'il vous faut
 path: bateaux
 ---
 
-La voile légère est riche et variée. Voici les bateaux que nous proposons régulièrement en occasion. Nous proposons pour ces dériveurs, dayboat et même catamaran une présentation pour vous aider dans vos recherches.
+Initiation, balade, performance, nous proposons une gamme riche où vous trouverez le cata ou dériveur qui comblera votre programme

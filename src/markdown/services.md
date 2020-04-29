@@ -1,43 +1,35 @@
 ---
 templateKey: page
 title: Services
-path: "services"
-description: "description"
+path: services
+description: Vous êtes propriétaire d'un dériveur ou d'un catamaran de sport ou de loisir, votre bateau nécessite des travaux de rénovation ou de réparation, vous souhaitez nous le confier pour l'hiver, voici quelques prestations adaptées à vos besoins.
+
+
 ---
-## Entretien / révisions
+## Location
 
-Les vacances, les belles journées ensoleillées animées par une petite brise, c’est fait pour naviguer, pas pour réparer.
+Sirena Voile vous propose un service de transport toutes distances, tous pays.
+Vous pouvez aussi louer des remorques pour le transport de votre catamaran ou dériveur.
 
-Pour être ce plaisir ineffable que nous apprécions tous, une navigation doit se dérouler en sécurité ce qui suppose bien sûr un bateau en bon état.
+## Dépôt vente
 
-Alors préparons les bateaux plutôt que de les réparer (vous êtes d’ailleurs déjà nombreux à nous le demander)
+Le bateau est exposé dans notre établissement et un contrat est signé entre les parties. Le prix de vente et le prix net vendeur sont définis ensemble.
 
-Forts de notre expérience et de notre connaissance des dériveurs (les modèles,  les fabricants,.. et leurs petites faiblesses). Nous avons élaboré une fiche de contrôle, ce qui nous permet de vous proposer les révisions suivantes :
+## Chantier polyester
 
-## Révision Simple
+### Entretien et rénovation de vos bateaux
+Vous tenez à votre bateau et vous ne souhaitez pas en changer. Sirena Voile et son équipe vous proposent une rénovation à la carte afin que vous puissiez naviguer encore très longtemps avec lui.
 
-Réviser votre dériveur c’est pour nous 1 heure de travail, 50 points de contrôle visuel pour faire son bilan de santé.
+### Réparation des bateaux de régate
+Le refus de tribord de votre dernière manche a été fatal, pas de problème, vous serez sur l'eau dès le week-end prochain.
+De nombreux coureurs nous font confiance pour la préparation, l'entretien et la réparation de leur bateau.
 
-## Révision intermédiaire
+## Hivernage
+Nos locaux, implantés au coeur des marais salants guérandais, sur un site d'un hectare, permettent d'hiverner votre bateau en intérieur comme en extérieur. Ce sera l'occasion de réaliser les petits travaux d'entretien.
 
-Pour un bateau bien réglé, prêt à naviguer sereinement : en 2 heures de travail, le bateau est maté, gréé, 80 points sont contrôlés.
+Nous vous proposons également un service de livraison, mâtage/dématage et nettoyage.
 
-## Contrôle étanchéité
+Toute l'année, nous assurons un service d'assistance rapide aux particuliers, professionnels et régatiers afin de les dépanner dans les meilleurs délais.
 
-Vous retrouvez de façon régulière de l’eau dans les caissons (+ que la simple condensation, environ un verre d’eau),
-
-Il est temps de faire quelque chose, nous pouvons faire un test d’étanchéité pour localiser la ou les fuites, représentant 2 heures de travail.
-
-## Révision intégrale
-
-La révision intégrale est l’ensemble des 3 premiers points.
-
-nous validons l’état général et la fiabilité du bateau dans son ensemble, mais aussi dans le détail:  structure, gréement, gréement courant, accastillage, réglage globale.
-
-Vous pouvez alors aller naviguer en toute sécurité et sérénité.
-
-## Révision remorque
-
-besoin d’une soudure ? de changer les roulements de roues qui ne roulent plus vraiment ? remplacer les roues pour votre remorque de route comme pour votre mise à l’eau…
-
-nous le ferons pour vous.
+## Rénovation
+Pour chaque bateau une attention particulière est portée sur notre savoir faire (anti dérapant refait, listons changés, fixation de l'accastillage et des trappes avec un joint étanche, liaisons coques-pont et poutres-pont pour les catamarans. Toutes les pièces d'usure (gréement dormant, gréement courant) sont vérifiées et changées le cas échéant. Les coutures, oeillets et goussets de lattes des voiles sont vérifiées et repris par notre voilerie.

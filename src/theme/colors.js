@@ -30,9 +30,9 @@ const colors = {
     900: "rgba(0, 0, 0, 0.92)",
   },
   brand: {
-    dark1:"#0C4073",
-    light1:"#FFE073",
-    light2:"#99FBF5",
+    dark1:"#212D35",
+    light1:"#68E7DF",
+    light2:"#FFE587",
 
   },
   gray: {

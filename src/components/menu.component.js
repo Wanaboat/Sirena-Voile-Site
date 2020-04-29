@@ -24,20 +24,16 @@ class Menu extends Component {
     const { navIsOpen } = this.state
     const navItems = [
       {
-        label:"Nous trouver",
-        to:"/nous-trouver/"
-      },
-      {
-        label:"Services",
-        to:"/services/"
-      },
-      {
-        label:"Matériel neuf",
-        to:"/materiel-neuf/"
+        label:"À propos",
+        to:"/a-propos/"
       },
       {
         label:"Bateaux",
         to:"/bateaux/"
+      },
+      {
+        label:"Services",
+        to:"/services/"
       },
       {
         label:"Occasions",
@@ -46,6 +42,10 @@ class Menu extends Component {
       {
         label:"Actu",
         to:"/actualites/"
+      },
+      {
+        label:"Vente en ligne",
+        to:"https://www.sirena-voile-shop.com/"
       }
     ]
     return (
