@@ -81,7 +81,7 @@ module.exports = {
         start_url: `/`,
         background_color: `hsl(0, 0%, 21%)`,
         theme_color: `hsl(0, 0%, 21%)`,
-        display: `fullscreen`,
+        display: `standalone`,
         icon: `src/images/favicon.png`, // This path is relative to the root of the site.
       },
     },
