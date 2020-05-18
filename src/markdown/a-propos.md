@@ -19,4 +19,4 @@ GPS : si vous ne trouvez pas le 33 rue André Citroën, essayez le 26 rue Jules 
 Mardi au samedi de 9h00 à 12h30 et de 14h00 à 17h30.
 
 ### Sirena Voile la référence de la voile légère depuis 20 ans
-Passez le barrage, tout droit, passez sous le double pont, plus loin au rond point, sortez 1ère à droite direction Lancieux, St Lunaire, St Briac. A 100 m prenez à droite, faites 900 m, à gauche rentrez dans la zone, nous sommes le premier bâtiment à votre droite. Vous êtes arrivé.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce mauris diam, bibendum ut tincidunt quis, facilisis at massa. Vivamus sit amet egestas lectus. In elementum dictum erat nec consequat. Donec pretium, ante at fringilla vehicula, nisi ipsum scelerisque massa, eget gravida lorem ipsum ac mi. Integer suscipit nisi at malesuada ullamcorper.

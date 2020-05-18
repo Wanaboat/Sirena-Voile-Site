@@ -1,8 +1,7 @@
 import React from "react";
 import { Link as GatsbyLink } from "gatsby";
-import { documentToReactComponents } from "@contentful/rich-text-react-renderer";
-import { BLOCKS, MARKS } from "@contentful/rich-text-types";
 import ReactSwipe from "react-swipe";
+
 // import DayJS from "react-dayjs";
 
 // ReactGA.initialize(process.env.GA_ID);
@@ -21,6 +20,9 @@ import {
     Grid,
     SimpleGrid
 } from "@chakra-ui/core";
+import './annonceContentStyle.scss'
+
+const ReactMarkdown = require('react-markdown')
 
 // import ReactGA from "react-ga";
 // ReactGA.initialize(process.env.GA_ID );
@@ -187,21 +189,6 @@ export default class AdCardPortraitLarge extends React.Component {
             );
         };
 
-        const CustomP = ({ children }) => <Text mb={1}>{children}</Text>;
-
-        const options = {
-            renderMark: {
-                [MARKS.BOLD]: text => <Text as="em">{text}</Text>
-            },
-            renderNode: {
-                [BLOCKS.PARAGRAPH]: (node, children) => <CustomP>{children}</CustomP>
-            }
-        };
-
-        const document = ad
-            ? ad.description
-            : null;
-
         return (
             <Box
                 zIndex={"sticky"}
@@ -341,10 +328,9 @@ export default class AdCardPortraitLarge extends React.Component {
                                         <Heading mb={5} as="h1" size="md" color={"gray.700"}>
                                             {ad.name}
                                         </Heading>
-                                         {documentToReactComponents(document, options)}
-                                        {/* <div dangerouslySetInnerHTML={ injectMarkup( documentToHtmlString( document, options ) )} /> */}
-                                        
-                                        
+                                        <Box className="wysiwyg">
+                                            <ReactMarkdown source={ad.content} />
+                                        </Box>
                                     </Box>
                                 </Grid>                    
                                         
