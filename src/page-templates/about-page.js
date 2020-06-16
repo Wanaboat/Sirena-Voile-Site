@@ -77,7 +77,7 @@ export const AboutPageTemplate = ({
                 label="Sirena Voile"
                 label-color="white"
                 labelStyle={{ size: "10px" }}
-                title="Sirena Voile"
+                title="Sirena"
                 clickable={true}
               />
             </GoogleMap>
