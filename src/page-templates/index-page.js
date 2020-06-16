@@ -112,7 +112,7 @@ const Hero = ({ heading, subheading, chapo, phoneNumber, address, phoneNumberRaw
             type="image/jpeg"
           />
           <img
-            alt="Dériveur Services"
+            alt="Sirena Voile"
             loading="lazy"
             style={{
             objectFit: "cover",
